@@ -5,7 +5,7 @@ title: computer college
 
 ## this is computer college 
 
-![alt text](...\downloads\ShowStdPic (1).jpg "college")
+![alt text](..\downloads\ShowStdPic (1).jpg "college")
 
 
 ---
