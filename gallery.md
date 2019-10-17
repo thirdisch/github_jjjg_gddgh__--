@@ -30,7 +30,7 @@ gallery:
   - url: /assets/images/6.jpg
     image_path: /assets/images/6.jpg
     alt: "placeholder image 6"
-    title: "Image 6 title caption"   
+    title: "lamborgini aventador"   
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
