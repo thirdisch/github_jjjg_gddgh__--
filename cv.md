@@ -19,4 +19,4 @@ comments: false
 |-----|----|----------------------------------------------------------------------------------|
 |2008 |2016| **primary_school**, mazandran , tonekabon , shahed school |
 |-----|----|----------------------------------------------------------------------------------|
-|2003 |2005| **MSc**, mazandran , tonekabon , khatam high school |
+|2003 |2005| **high_school**, mazandran , tonekabon , khatam high school |
