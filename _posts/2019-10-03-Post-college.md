@@ -5,7 +5,7 @@ title: computer college
 
 ## this is computer college 
 
-![alt text](..\downloads\ShowStdPic (1).jpg "college")
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLuZu0tNJftY5AJkTx5L99jqvTbmM1gyopzcME9cVxhZfgiCJYA&s "college")
 
 
 ---
