@@ -14,11 +14,11 @@ gallery:
   - url: /assets/images/6.jpg
     image_path: /assets/images/6.jpg
     alt: "placeholder image 6"
-    title: "lamborgini aventador"   
+    title: "lamborgini aventador"  
   - url: /assets/images/10.jpg
     image_path: /assets/images/10.jpg
     alt: "placeholder image 10"
-    title: "computer science"   
+    title: "computer"   
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
